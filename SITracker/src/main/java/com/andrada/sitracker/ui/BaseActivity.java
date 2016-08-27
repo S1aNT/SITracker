@@ -209,7 +209,7 @@ public abstract class BaseActivity extends AppCompatActivity implements
 
     @Override
     public void setContentView(int layoutResID) {
-        super.setContentView(layoutResID);
+        super.se                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    `tContentView(layoutResID);
         getActionBarToolbar();
     }
 
